@@ -1,0 +1,7 @@
+D:\work\firefox-agent\AgentRunnerWatcher\AgentRunnerWatcher\bin\Release\AgentRunnerWatcher.exe.config
+D:\work\firefox-agent\AgentRunnerWatcher\AgentRunnerWatcher\bin\Release\AgentRunnerWatcher.exe
+D:\work\firefox-agent\AgentRunnerWatcher\AgentRunnerWatcher\bin\Release\AgentRunnerWatcher.pdb
+D:\work\firefox-agent\AgentRunnerWatcher\AgentRunnerWatcher\obj\Release\AgentRunnerWatcher.ProjectInstaller.resources
+D:\work\firefox-agent\AgentRunnerWatcher\AgentRunnerWatcher\obj\Release\AgentRunnerWatcher.csproj.GenerateResource.Cache
+D:\work\firefox-agent\AgentRunnerWatcher\AgentRunnerWatcher\obj\Release\AgentRunnerWatcher.exe
+D:\work\firefox-agent\AgentRunnerWatcher\AgentRunnerWatcher\obj\Release\AgentRunnerWatcher.pdb
